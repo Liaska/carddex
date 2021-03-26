@@ -1,32 +1,32 @@
 @font-face {
     font-family: "Gotham Pro";
-    src: url("../fonts/GothamPro-Bold.eot");
+    src: url("./fonts/GothamPro-Bold.eot");
     src: local("../Gotham Pro Bold"), local("GothamPro-Bold"),
-        url("../fonts/GothamPro-Bold.eot?#iefix") format("embedded-opentype"),
-        url("../fonts/GothamPro-Bold.woff") format("woff"),
-        url("../fonts/GothamPro-Bold.ttf") format("truetype");
+        url("./fonts/GothamPro-Bold.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/GothamPro-Bold.woff") format("woff"),
+        url("./fonts/GothamPro-Bold.ttf") format("truetype");
     font-weight: bold;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Gotham Pro";
-    src: url("../fonts/GothamPro-Light.eot");
+    src: url("./fonts/GothamPro-Light.eot");
     src: local("../Gotham Pro Light"), local("GothamPro-Light"),
-        url("../fonts/GothamPro-Light.eot?#iefix") format("embedded-opentype"),
-        url("../fonts/GothamPro-Light.woff") format("woff"),
-        url("../fonts/GothamPro-Light.ttf") format("truetype");
+        url("./fonts/GothamPro-Light.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/GothamPro-Light.woff") format("woff"),
+        url("./fonts/GothamPro-Light.ttf") format("truetype");
     font-weight: 300;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Gotham Pro";
-    src: url("../fonts/GothamPro.eot");
+    src: url("./fonts/GothamPro.eot");
     src: local("../Gotham Pro"), local("GothamPro"),
-        url("../fonts/GothamPro.eot?#iefix") format("embedded-opentype"),
-        url("../fonts/GothamPro.woff") format("woff"),
-        url("../fonts/GothamPro.ttf") format("truetype");
+        url("./fonts/GothamPro.eot?#iefix") format("embedded-opentype"),
+        url("./fonts/GothamPro.woff") format("woff"),
+        url("./fonts/GothamPro.ttf") format("truetype");
     font-weight: normal;
     font-style: normal;
 }
@@ -199,8 +199,7 @@ input[type="checkbox"]:focus {
     font-size: 14px;
     margin-bottom: 40px;
 }
-.auth__forgot {
-}
+
 .submit-button {
     max-width: 335px;
     width: 100%;
@@ -231,8 +230,6 @@ input[type="checkbox"]:focus {
     margin-bottom: 70px;
 }
 
-.media {
-}
 .media__title {
     font-size: 14px;
     line-height: 14px;
@@ -244,18 +241,9 @@ input[type="checkbox"]:focus {
     justify-content: center;
     align-items: center;
 }
-.vk {
-}
 .media-resource:not(:last-child) {
     margin-right: 17px;
 }
-.facebook {
-}
-.instagram {
-}
-.google-plus {
-}
-
 .footer {
     padding: 18px 0;
     color: white;
